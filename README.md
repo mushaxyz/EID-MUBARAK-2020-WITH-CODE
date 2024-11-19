@@ -1,4 +1,4 @@
-# EID-MUBARAK-2020-WITH-CODE
+# Turtle graphics — Python
 This project only for kids. Using Turtle feature of Python Programming Language.<br>
 ### Powered by MessBook Softwares Ltd.
 
